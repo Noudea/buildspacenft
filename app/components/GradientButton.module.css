@@ -1,0 +1,15 @@
+.gradientButton {
+  background: #FC466B;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3F5EFB, #FC466B);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border:0px;
+  color:white;
+  padding:12px;
+  border-radius: 12px;
+  font-weight: bold;
+  cursor:pointer;
+  margin: 28px 0px;
+}
